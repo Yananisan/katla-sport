@@ -1,0 +1,39 @@
+[33mcommit 2333421faa7ed717eaef401060a9422d7ce7bd14[m[33m ([m[1;36mHEAD -> [m[1;32mstep1[m[33m)[m
+Author: Yana Ivanouskaya <yanaivanovskaya99@gmail.com>
+Date:   Thu Sep 19 16:23:25 2019 +0300
+
+    Add Description property to ProductCategory model. Create a new migration AddCategoryDescription.Add commit for angular configuration
+
+[33mcommit 043e183e7950b606456a707dba9dfc59474653ad[m
+Author: Yana Ivanouskaya <yanaivanovskaya99@gmail.com>
+Date:   Thu Sep 19 16:22:19 2019 +0300
+
+    new commit forfirst task
+
+[33mcommit 7f9fe8f367478470a64eb238fbf1919efbc68d3e[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: EPAM MSTD .NET Lab <aliaksandr_rykau@epam.com>
+Date:   Wed Jun 12 14:19:06 2019 +0300
+
+    Update README.md
+    
+    Remove unnecessary lines.
+
+[33mcommit 29b240968ce8b48a8da8287f0eb9d27dd64719a5[m
+Author: Alexander Shaduro <belpyro@users.noreply.github.com>
+Date:   Mon Jun 11 14:03:17 2018 +0300
+
+    Update README.md
+
+[33mcommit 3846275701c07be0c81b24e3e0043bff91c71a5b[m
+Author: Alexander Shaduro <belpyro@users.noreply.github.com>
+Date:   Mon Jun 11 14:00:53 2018 +0300
+
+    Update README.md
+    
+    updated readme
+
+[33mcommit 26537e7dec0993dcc411b0730239eac3cb010665[m
+Author: EPAM .NET Lab <aliaksandr_rykau@epam.com>
+Date:   Mon May 14 21:04:46 2018 +0300
+
+    Initial commit.
