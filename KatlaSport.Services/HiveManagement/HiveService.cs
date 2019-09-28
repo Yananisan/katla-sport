@@ -108,14 +108,14 @@ namespace KatlaSport.Services.HiveManagement
             }
 
             var dbHive = dbHives[0];
-            if (dbHive.IsDeleted == false)
+            if (dbHive.IsDeleted != false)
             {
                 throw new RequestedResourceHasConflictException();
             }
 
-            await _context.SaveChangesAsync();
-
             _context.Hives.Remove(dbHive);
+
+            await _context.SaveChangesAsync();
         }
 
         /// <inheritdoc/>
